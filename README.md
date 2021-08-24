@@ -6,6 +6,9 @@ __Requirements:__
 Python 3.8
 
 __Instructions:__
+If the stars are aligned (=everything including graphs seem to have rendered correctly), you can just browse the `classifier_notebook.ipynb` notebook.
+
+If not:
 1. Clone the repository
 2. Create virtual environment with python 3.8
 3. Install requirements from `requirements.txt`
